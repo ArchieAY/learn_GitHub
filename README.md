@@ -1,2 +1,2 @@
-# learn_Github
-The first Github try.
+# learn_GitHub
+The first GitHub try.
